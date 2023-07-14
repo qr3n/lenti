@@ -1,0 +1,16 @@
+#ifndef LENTI_COLORS_H
+#define LENTI_COLORS_H
+
+
+#include <efi.h>
+
+typedef  UINTN COLOR;
+
+#define      LOG_COLOR EFI_LIGHTGRAY
+#define     INFO_COLOR EFI_LIGHTBLUE
+#define SUCCESS_COLOR EFI_LIGHTGREEN
+#define     WARNING_COLOR EFI_YELLOW
+#define     ERROR_COLOR EFI_LIGHTRED
+
+
+#endif //LENTI_COLORS_H

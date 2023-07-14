@@ -1,0 +1,1 @@
+#define CONFIG_NAME L"config.lenti"
